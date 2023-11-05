@@ -1,0 +1,28 @@
+#footer_container{
+    padding: 50px 200px 24px;
+    background-color: black !important;
+}
+#footer_container_content{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    margin-bottom: 24px;
+}
+.footer_container_list{
+    list-style: none;
+}
+.footer_container_list .footer_container_title{
+    width: 106px;
+    font-size: 15px;
+    padding: 6px;
+    margin-bottom: 24px;
+    border-bottom: 2px solid #fff;
+}
+.footer_container_list .footer_container_item{
+    margin-bottom: 12px;
+}
+#footer_container #copyright{
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+}

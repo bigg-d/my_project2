@@ -1,0 +1,18 @@
+#nav_container{
+    height: 50px;
+    padding: 0 200px;
+}
+#nav_container_list{
+    display: flex;
+    list-style: none;
+
+}
+.nav_container_item{
+    font-size: 14px;
+    font-weight: 700;
+    padding: 17px;
+} 
+.nav_container_item:hover{
+    color:#0089ff;
+    transition: 0.7s;
+}
